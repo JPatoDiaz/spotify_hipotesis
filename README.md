@@ -54,3 +54,7 @@ El desarrollo del proyecto se llevo a través de las siguientes fases
     - Regresión lineal
 -   Construcción de dashboard.
 -   Presentación de resultados con stakeholders.
+
+## Archivos adicionales
+
+- Consultas SQL en GoogleCloud. Disponibles en: https://console.cloud.google.com/bigquery?project=proyecto03-408116&ws=!1m4!1m3!3m2!1scanvas-landing-404517!2sAnalisisSpotify
