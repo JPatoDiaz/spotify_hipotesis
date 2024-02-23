@@ -39,7 +39,7 @@ Analizar las canciones más escuchadas en el 2023 en la plataforma Spotify y su 
 ### Lenguajes
 
 - SQL
-- Phyton
+- Python
 
 ## ¿Cuál fue el proceso de trabajo?  
 
